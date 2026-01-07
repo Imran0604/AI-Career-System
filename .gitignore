@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (SECRETS)
+.env
+
+# PDF files (Don't upload test resumes)
+*.pdf
+*.png
