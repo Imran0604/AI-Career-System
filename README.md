@@ -59,20 +59,20 @@ An AI-powered application that helps students and professionals optimize their r
 ## 📸 Screenshots
 
 ### 🏠 Home Dashboard
-![Home Page](homepage.png)
-![Home Page](homepagedark.png)
+![Home Page](images/homepage.png)
+![Home Page](images/homepage_dark.png)
 
 ### 📝 Resume Builder
-![CV Build Page](BuildCV.png)
+![CV Build Page](images/BuildCV.png)
 
 ### 🔮 Career Prediction
-![Career Prediction Page](careerpredict.png)
+![Career Prediction Page](images/careerpredict.png)
 
 ### 🎯 Job Matching Results
-![Jobs Page](Jobmatch.png)
+![Jobs Page](images/Jobmatch.png)
 
 ### ✨ AI Resume Fixer
-![AI Fix Page](Jobfix.png)
+![AI Fix Page](images/Jobfix.png)
 
 ## 🤝 Contribution
 Feel free to fork this repository and submit pull requests.
