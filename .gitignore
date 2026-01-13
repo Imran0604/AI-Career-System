@@ -12,3 +12,5 @@ env/
 # PDF files (Don't upload test resumes)
 *.pdf
 *.png
+# Ignore PNGs by default but include images used in README
+!images/*.png
